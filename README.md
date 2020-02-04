@@ -1,4 +1,4 @@
-# appendix-a-documents
+# Appendix A documents
 
 Appendix A documents for data sets. The content and purpose of these templates are
 discussed in the [general NanoSolveIT DMP](https://github.com/NanoSolveIT/dmp/blob/rebrand/NanoSolveIT/DMP.md).
